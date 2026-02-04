@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "install": "^0.12.2",
-    "npm": "^6.5.0",
+    "npm": "^11.9.0",
     "react": "^16.5.2",
     "react-cookie": "^3.0.8",
     "react-dom": "^16.5.2",
